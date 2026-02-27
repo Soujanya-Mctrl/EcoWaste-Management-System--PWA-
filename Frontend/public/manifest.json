@@ -1,0 +1,16 @@
+{
+    "name": "EcoWaste Manager",
+    "short_name": "EcoWaste",
+    "description": "AI-powered waste management system for a sustainable future",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#00b25d",
+    "icons": [
+        {
+            "src": "/icon.svg",
+            "sizes": "192x192 512x512",
+            "type": "image/svg+xml"
+        }
+    ]
+}
